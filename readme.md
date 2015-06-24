@@ -1,8 +1,8 @@
 # Instalación
 
-Para instalar el paquete de idioma Español a SugarCR descarga el archivo ZIP del último de tags (Releases) de este repositorio, renómbralo como SugarCrm-6.5-SpanishLanguagePack-$VERSION.zip y súbelo a tu SugarCRM mediante "Module Loader".
+Para instalar el paquete de idioma Español a SugarCR descarga el archivo ZIP del último de tags (Releases) de este repositorio, descomprímelo y selecciona todos los archivos (bajar un directorio en el zip) para crear el zip SugarCrm-6.5-SpanishLanguagePack-$VERSION.zip y súbelo a tu SugarCRM mediante "Module Loader". Por alguna extrña razón al descargar el Tag GitHub le añade un directorio al zip dejando el codigo un nivel hacia el interior.
 
-# Â¿CÃ³mo colaborar a este proyecto?
+# ¿Cómo colaborar a este proyecto?
 
 IMPORTANTE: Se usa GitFlow.
 
@@ -12,4 +12,4 @@ IMPORTANTE: Se usa GitFlow.
 
 NOTA: Los tag release usan la siguiente nomenclatura: VERSION-DE-SUGAR-CRM-VERSION-DEL-LENGUAJE: Ejemplo: SugarCrm-6.5-SpanishLanguagePack-1.2.1     Números de Release: Mayor.Menor.Hotfix
 
-CRÃ‰DITOS: pokoli es el creador de los archivos traducidos.
+CRÉDITOS: pokoli es el creador de los archivos traducidos.
